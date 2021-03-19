@@ -19,7 +19,7 @@ idna==2.0
 ipython==5.3.0
 ipython-genutils==0.2.0
 itsdangerous==0.24
-Jinja2==2.8
+Jinja2==2.11.3
 
 
 lxml==3.5.0
